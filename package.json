@@ -9,6 +9,9 @@
   "author": "Mark Toledo",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^2.2.34"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.34",
+    "mongoose": "^4.5.9"
   }
 }
